@@ -12,7 +12,7 @@ namespace Etut20190907Tilda.Controllers
         public ActionResult Index()
         {
              int a=1;
-             string ben = "geldim";
+             string ben = "gittim";
             return View();
         }
     }
