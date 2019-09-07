@@ -11,7 +11,8 @@ namespace Etut20190907Tilda.Controllers
         // GET: Home
         public ActionResult Index()
         {
-        int a=1;
+             int a=1;
+             string ben = "geldim";
             return View();
         }
     }
